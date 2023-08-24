@@ -1,7 +1,7 @@
 {
   "author": "FreeCodeCamp",
   "description": "Node package.json example starter project",
-  "version": "1.2.0",
+  "version": "~1.2.13",
   "keywords": [
     "freecodecamp",
     "node",
@@ -9,7 +9,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@freecodecamp/example": "~1.2.13",
+    "@freecodecamp/example": "1.2.13",
     "express": "^4.14.0"
   },
   "main": "server.js",
