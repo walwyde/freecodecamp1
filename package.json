@@ -1,7 +1,7 @@
 {
   "author": "FreeCodeCamp",
   "description": "Node package.json example starter project",
-  "version": "~1.2.13",
+  "version": "^1.2.13",
   "keywords": [
     "freecodecamp",
     "node",
